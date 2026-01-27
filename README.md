@@ -23,6 +23,5 @@ This project is ideal for beginners who want to understand **server-side renderi
 - **EJS (Embedded JavaScript Templates)**
 - **HTML & CSS**
 
----
 
 
